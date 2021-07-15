@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalibrationApp</string>
+    <string name="AppName">Calibration app</string>
+    <string name="Xtangle">X-axis: -0.99087822</string>
+    <string name="Ytangle">Y-axis: 0.01306293</string>
+    <string name="Ztangle">Z-axis: 0.01686458</string>
+    <string name="sensors_name">Accelerometer</string>
+
+
+</resources>
